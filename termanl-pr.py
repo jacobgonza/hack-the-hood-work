@@ -15,7 +15,7 @@ checklist = []
 def create(item):
     checklist.append(item)
 
-    return print( f"{checklist[index]} was added to the checklist: {checklist}")
+    return print( f"{checklist[index]} was added to the checklist : {checklist}")
 
 def read(index):
     return print(f"{checklist[index]} is at the {index} position")
