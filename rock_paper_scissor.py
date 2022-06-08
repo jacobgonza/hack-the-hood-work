@@ -15,7 +15,7 @@ while True:
             print("paper covers rock! You lose.")
     elif user_action == "paper":
         if computer_action == "rock":
-            print("paper cover rock! you win.")
+            print("paper covers rock! you win.")
         else:
             print("scissor cuts paper you lose.")
     elif user_action == "scissor":
