@@ -8,8 +8,8 @@ I have personally played genshin for a while now and love the game. i know who t
 
 1.what character has the lowest helth in each element
 2.what charecter has the hiest health in each element
-3.what charater has the 
-4.what charater has the 
+3.what charater has the crte rate
+4.what charater has the crit damage
 5.what charater has the 
 6.what charater has the 
 7.what charater has the 
